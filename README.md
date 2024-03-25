@@ -1,2 +1,2 @@
 # webb
-< scr="Vizit/A.png">
+< src="Vizit/A.png">
